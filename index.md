@@ -11,7 +11,8 @@
   
   Age 💫：22
   
-  QQ / Wechat : 916776300
+  QQ / Wechat 🐧: 916776300
+  
 ===================THIS IS THE BORDER LINE============================
 
 Learning🎨 : Java ⚡ Math&Linear Algebra
