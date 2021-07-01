@@ -2,8 +2,11 @@
 
 
 
-### 关于本喵🐱
+## 关于本喵🐱
 
+-Name🐱:PlexLong
+-Age😆: 22
+-Hobby🐱‍🏍✨ : VolleyBall & Math
 
 # Header 1
 ## Header 2
