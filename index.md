@@ -1,6 +1,6 @@
 
 
-## Hello!    This is 敦敦喵🐱SPACEo(=•ェ•=)m
+## Hello!    This is 敦敦喵🐱
 
 ### About me
 <img align='center' src="https://c-ssl.duitang.com/uploads/item/201804/13/20180413105358_k58WZ.gif" width="230">
