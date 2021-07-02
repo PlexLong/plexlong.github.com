@@ -3,7 +3,7 @@
 ## Hello!    This is 敦敦喵🐱
 
 ### About me
-<img align='center' src="http://p1.itc.cn/images03/20200531/d94dc49a1e7e4b60a2dba550539fe53f.jpeg" width=>
+<img align='center' src="http://p1.itc.cn/images03/20200531/d94dc49a1e7e4b60a2dba550539fe53f.jpeg" >
 
 
 📚 A sofeware engineering student of WHPU
