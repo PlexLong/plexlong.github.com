@@ -34,4 +34,6 @@ Loving⚽ :  music🎧 & code💻 & math 💙
 
 
 ### Now I am preparing exams！
+![github stats](https://github-readme-stats.vercel.app/api?username=Plexlong&show_icons=true)
+
 
